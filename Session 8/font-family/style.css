@@ -1,0 +1,15 @@
+.serif{
+    font-family:"Times New Roman", Times, serif;
+}
+.sans-serif{
+    font-family: 'Mukta', sans-serif;
+}
+.monospace{
+    font-family: 'Roboto Mono', monospace;
+}
+.cursive{
+    font-family: cursive;
+}
+.fantasy{
+    font-family: fantasy;
+}

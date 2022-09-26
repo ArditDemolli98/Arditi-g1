@@ -1,0 +1,56 @@
+html{
+    font-size:10px;
+}
+
+.container{
+    background-color: salmon;
+    background: url(images/background-sample.jpg);
+    background-size:cover;
+    height: 100vh;
+}
+h1{
+    background-color:aqua;
+    color:blue;
+    height:50vh;
+    width: 50vw;
+}
+span{
+    background: pink;
+}
+.box-1{
+    background-color:green;
+    height:30%;
+    width:50%;
+}
+.box-1 div{
+    background-color:lightgreen;
+    height:50%;
+    width:50%;
+}
+.box-2{
+    background-color: coral;
+    height:170px;
+    width:100px;
+}
+
+.box-3{
+    background-color:cyan;
+    height:300px;
+    width:500px;
+}
+
+.second-container{
+    background-color: gold;
+    height: 80vh;
+    font-size:20px;
+}
+
+.inside-div{
+    height:300px;
+    width:600px;
+}
+.box-4{
+    background-color: green;
+    height:20em;
+    width:20em;
+}

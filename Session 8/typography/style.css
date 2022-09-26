@@ -1,0 +1,16 @@
+h1, h2, h4{
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: underline overline red;
+    
+}
+a{
+    text-decoration: none;
+}
+
+p, li{
+    font-size: 20px;
+    line-height: 1.6;
+    word-spacing: 1px;
+    letter-spacing:1px;
+}
