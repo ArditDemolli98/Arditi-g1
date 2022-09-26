@@ -1,0 +1,22 @@
+section > h2{
+    color:chocolate;
+}
+article > h2{
+    color:coral;
+}
+h2+ article + h2{
+    color:crimson;
+}
+.blue{
+    color:blue;
+}
+#last{
+    text-align:center;
+}
+
+.blue{
+    color:red;
+}
+#last{
+    color:black !important;
+}
