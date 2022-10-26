@@ -1,0 +1,37 @@
+form {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+form input {
+    font-size: 20px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+}
+
+form label {
+    font-size: 20px;
+}
+
+form button {
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 5px;
+    align-self: center;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+#username-span {
+    color: red;
+    display: none;
+}
