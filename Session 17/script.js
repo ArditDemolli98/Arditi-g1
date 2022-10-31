@@ -70,6 +70,7 @@ const calcAverage = (score1, score2, score3) => (score1 + score2 + score3) / 3;
 
 const dolphinsAvg = calcAverage(44, 23, 71);
 const koalasAvg = calcAverage(65, 54, 49);
+
 const dolphinsAvg1 = calcAverage(85, 54, 41);
 const koalasAvg1 = calcAverage(23, 34, 27);
 
