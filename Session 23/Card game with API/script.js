@@ -42,8 +42,14 @@ function drawCards() {
 function convertToNum(value) {
     if (value === 'ACE') {
         return value = 14;
+    } else if (value === 'KING') {
+        return value = 13;
+    } else if (value === 'QUEEN') {
+        return value = 12;
+    } else if (value === 'JACK') {
+        return value = 11;
     } else {
-        return Number(val);
+        return Number(value);
     }
 
 }
