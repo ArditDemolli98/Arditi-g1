@@ -1,3 +1,3 @@
 # Arditi-g1
 
-This repository is all the work we do during class with the first group
+In this repository I post everything that I work with my first group of students in IT Education
